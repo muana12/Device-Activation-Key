@@ -8,7 +8,7 @@
     {
         "device_id": "eacc166f5f3c8d7c",
         "key": "Test",
-        "expirydate": "31-04-2026",
+        "expirydate": "31-07-2026",
         "Allowoffline": true
     },
     {
@@ -18,9 +18,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "84ab039a6d749330",
-        "key": "Muantear",
-        "expirydate": "31-4-2026",
-        "Allowoffline": false
+        "device_id": "d6d1b7f51f53a976",
+        "key": "5214-F88B-D6F0-5C21",
+        "expirydate": "31-07-2026",
+        "Allowoffline": true
     },
 ]

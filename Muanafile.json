@@ -7,9 +7,9 @@
     },
     {
         "device_id": "eacc166f5f3c8d7c",
-        "key": "Test",
-        "expirydate": "31-07-2026",
-        "Allowoffline": true
+        "key": "123",
+        "expirydate": "31-08-2026",
+        "Allowoffline": false
     },
     {
         "device_id": "eb43c7e34e59d17d",

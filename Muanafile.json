@@ -21,6 +21,6 @@
         "device_id": "cdd6145b2f6b4ad3",
         "key": "5214-F88B-D6F0-5Z21",
         "expirydate": "20-06-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
 ]

@@ -33,6 +33,6 @@
         "device_id": "eacc166f5f3c8d7c",
         "key": "123456",
         "expirydate": "20-07-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 ]
